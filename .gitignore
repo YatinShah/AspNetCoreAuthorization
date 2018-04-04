@@ -210,3 +210,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/PublishedSite
+/src/Step_0_MVC_Setup/Properties/PublishProfiles/CustomProfile.pubxml
